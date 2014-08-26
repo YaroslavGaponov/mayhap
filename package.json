@@ -1,0 +1,22 @@
+{
+  "name": "mayhap",
+  "version": "0.0.1",
+  "description": "Quick search for the word in this top",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YaroslavGaponov/maphap"
+  },
+  "keywords": [
+    "suggestion"
+  ],
+  "author": "Yaroslav Gaponov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavGaponov/maphap/issues"
+  },
+  "homepage": "https://github.com/YaroslavGaponov/maphap"
+}
